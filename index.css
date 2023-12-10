@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    background-image: url('./LawdImage.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    color: white;
+    font-size: larger;
+    margin-top: 100px;
+}
+
+li {
+    color: white;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+button {
+    background-color: transparent;
+    border: transparent;
+}
+
+.fcc-btn {
+    background-color: blueviolet;
+    color: white;
+    padding: 15px 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.fcc-btn:hover {
+    background-color: white;
+}
+
+.download {
+    margin-left: 20px;
+    background-color: blueviolet;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.download:hover {
+    background-color: white;
+}
